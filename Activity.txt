@@ -1,0 +1,13 @@
+1.b.
+Activity 1: onCreate(), onStart(), onResume(), onPause(), onStop().	
+Activity 2: onCreate(), onStart(), onResume().
+
+1.c
+Activity 2: onPause(), onStop(), onDestroy().
+Activity 1: onRestart(), onStart(), onResume().
+
+1.d
+Activity 1: onPause(), onStop().
+Activity 2: onCreate(), onStart(), onResume(), onPause(), onStop(), onDestroy().
+1.e
+Activity 1: onCreate(), onStart(), onResume().
